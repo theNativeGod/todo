@@ -5,3 +5,4 @@ How to use:
 2. Extract and place the todo folder in the desired location.
 3. Add the following path in your ~/.zshrc or environment variables:
     (path_to_the_todo_folder)/todo/target/release
+4. Type 'todo help' in the terminal to get a list of all commands available.
