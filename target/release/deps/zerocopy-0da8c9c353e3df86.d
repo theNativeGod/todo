@@ -1,0 +1,14 @@
+/Users/saswatasaha/Desktop/rust/todo/target/release/deps/zerocopy-0da8c9c353e3df86.rmeta: /Users/saswatasaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.25/src/lib.rs /Users/saswatasaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.25/src/macros.rs /Users/saswatasaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.25/src/macro_util.rs /Users/saswatasaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.25/src/util.rs /Users/saswatasaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.25/src/third_party/rust/layout.rs /Users/saswatasaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.25/src/wrappers.rs
+
+/Users/saswatasaha/Desktop/rust/todo/target/release/deps/libzerocopy-0da8c9c353e3df86.rlib: /Users/saswatasaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.25/src/lib.rs /Users/saswatasaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.25/src/macros.rs /Users/saswatasaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.25/src/macro_util.rs /Users/saswatasaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.25/src/util.rs /Users/saswatasaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.25/src/third_party/rust/layout.rs /Users/saswatasaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.25/src/wrappers.rs
+
+/Users/saswatasaha/Desktop/rust/todo/target/release/deps/zerocopy-0da8c9c353e3df86.d: /Users/saswatasaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.25/src/lib.rs /Users/saswatasaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.25/src/macros.rs /Users/saswatasaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.25/src/macro_util.rs /Users/saswatasaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.25/src/util.rs /Users/saswatasaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.25/src/third_party/rust/layout.rs /Users/saswatasaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.25/src/wrappers.rs
+
+/Users/saswatasaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.25/src/lib.rs:
+/Users/saswatasaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.25/src/macros.rs:
+/Users/saswatasaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.25/src/macro_util.rs:
+/Users/saswatasaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.25/src/util.rs:
+/Users/saswatasaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.25/src/third_party/rust/layout.rs:
+/Users/saswatasaha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerocopy-0.7.25/src/wrappers.rs:
+
+# env-dep:CARGO_PKG_VERSION=0.7.25
