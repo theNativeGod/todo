@@ -26,7 +26,7 @@ fn main() -> Result<()> {
             if task.2 {
                 println!("\x1b[32m{} {}\x1b[0m", task.0, task.1);
             } else {
-                println!("{} {}", task.0, task.1);
+                println!("\x1b[38;5;128m{} {}\x1b[0m", task.0, task.1);
             }
         }
     } else {
